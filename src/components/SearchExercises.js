@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const SearchExercises = () => {
-  return (
-    <div>SearchExercises</div>
-  )
-}
+  return <div>SearchExercises</div>;
+};
 
-export default SearchExercises
+export default SearchExercises;
